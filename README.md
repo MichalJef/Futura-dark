@@ -12,6 +12,6 @@ Features Darker gray and Navy Blue colors, also green for action buttons or link
 2. In Dicord (with Vencord installed) Navigate to Settings>Themes (under Vencord Section)
 3. Import CSS
    - Locally: Download CSS and put it into Themes Folder (Button: `Open Themes Folder`)
-   - Online: Paste Theme link `http://`
+   - Online: Paste Theme link `https://raw.githubusercontent.com/MichalJef/Ubuntu-mono-Dark/main/discord_ubuntu_mono_dark_1.2.css`
 
 ### Now you are Ready to go
