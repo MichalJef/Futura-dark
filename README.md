@@ -16,4 +16,5 @@ Features Darker gray and Navy Blue colors, also green for action buttons or link
 
 ### Now you are Ready to go
 
-Available under CC-BY-NC-SA (Copy & Publish; Attribution required; for Non-commercial uses only; Can be modifyed; License Cannot be changed)
+Available under **CC-BY-NC-SA** 
+*(Copy & Publish; Attribution required; for Non-commercial uses only; Can be modifyed; License cannot be changed)*
