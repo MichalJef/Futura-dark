@@ -5,10 +5,13 @@
     * @author michaljef.xyz
     * @website https://michaljef.xyz/my-work
 **/
+/* Css language: cs */
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 :root {
     /* --------- BASE THEME --------- */
-    --blurple-replace: #181818; /* Upraveno na hlavní barvu pozadí */
+    --blurple-replace: #181818; /* Upraveno na hlavní barvu pozad */
     --background-primary: #181818; /* Hlavní pozadí */
     --background-secondary: #0d1117; /* Tmavší šedá */
     --background-floating: #0f0f0f; /* Ponecháno podobně tmavé, ale lehce odlišné */
@@ -65,21 +68,21 @@ body {
   font-style: normal;
 }
 
-/* Tučný */
+/* Bold */
 .bold {
   font-family: 'Ubuntu Mono', monospace;
   font-weight: bold;
   font-style: normal;
 }
 
-/* Kurzíva */
+/* Italic */
 .italic {
   font-family: 'Ubuntu Mono', monospace;
   font-weight: normal;
   font-style: italic;
 }
 
-/* Tučný kurzíva */
+/* Bold-Italic */
 .bold-italic {
   font-family: 'Ubuntu Mono', monospace;
   font-weight: bold;
