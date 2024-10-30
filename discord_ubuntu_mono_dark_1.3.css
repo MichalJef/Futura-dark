@@ -1,9 +1,9 @@
 /**
     * @name Ubuntu mono Dark
-    * @version 1.2
+    * @version 1.3
     * @description Even darker theme with ubuntu mono font.
     * @author michaljef.xyz
-    * @website https://michaljef.xyz/my-work
+    * @website https://michaljef.xyz/en/my-work
 **/
 /* Css language: cs */
 
@@ -25,18 +25,18 @@
     --elevation-high: 0 8px 16px rgba(0, 0, 0, 0.24);
     --channels-default: #a1a1a1; /* Světlejší šedá pro text */
     --channeltextarea-background: #0d1117; /* Hlavní pozadí */
-    --voice-color: #45a049; /* Akční prvky */
+    --voice-color: #4caf50; /* Akční prvky */
     --guild-header-text-shadow: 0 1px 1px rgba(0, 0, 0, 0.4);
     --activity-card-background: #3f3f3f; /* Šedá */
     --interactive-normal: #a1a1a1; /* Světlejší šedá */
-    --interactive-hover: #45a049; /* Akční prvky */
-    --interactive-active: #45a049;
+    --interactive-hover: #4caf50; /* Akční prvky */
+    --interactive-active: #4caf50;
     --interactive-muted: #6b6b6b; /* Tlumená šedá */
     --background-modifier-hover: rgba(33, 38, 45, 0.26);
     --background-modifier-active: rgba(33, 38, 45, 0.44);
     --background-modifier-selected: rgba(33, 38, 45, 0.52);
     --background-modifier-accent: rgb(33, 38, 45);
-    --text-link: #45a049; /* Zelená pro odkazy */
+    --text-link: #4caf50; /* Zelená pro odkazy */
     --text-normal: #c9d1d9; /* Ponechání světlejšího textu */
     --text-muted: #a1a1a1; /* Světlejší šedá */
     --deprecated-panel-background: #2a2f29;
@@ -57,8 +57,8 @@
     --border-color: #111111; 
     --blurple-border: 1px solid #2c2c2c;
     --border-radius: 5px;
-    --divide-color: #45a049; /* Zelená pro oddělení */
-    --brand-experiment: #45a049; /* Akční prvky */
+    --divide-color: #4caf50; /* Zelená pro oddělení */
+    --brand-experiment: #4caf50; /* Akční prvky */
     --deprecated-quickswitcher-input-background: var(--channeltextarea-background)
 }
 
